@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MAPEADOR DE URL CRIADO COM REACT E NODE
 
 ## Descrição
